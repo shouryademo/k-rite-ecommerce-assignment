@@ -1,1 +1,3 @@
 # k-rite-ecommerce-assignment
+
+This project is still in working phase....
